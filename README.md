@@ -1,2 +1,2 @@
-# pointers-pooling
-A pool of pointers by content - to help reaching a stable persistence
+# NFT Website
+Website is divided in NFTs. Each NFT owns a parcel of the website. The owner can point to any IPFs resource and upload the contents on their website portion.
